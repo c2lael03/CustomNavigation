@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "viikko3_tehtava_custom_navigation_with_react_native_paper",
+    "slug": "snack-7e49c03f-8aec-4b5d-a284-70c74147b83e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "https://moodle.oulu.fi/pluginfile.php/2422982/mod_resource/content/1/mdnavigation.pdf"
+  }
+}
