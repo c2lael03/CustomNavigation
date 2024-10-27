@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "viikko3_tehtava_navigation",
+    "slug": "snack-bb7d98d9-ee1a-49c6-a496-98035c212b61",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "https://moodle.oulu.fi/pluginfile.php/2412379/mod_resource/content/3/navigationandbar.pdf"
+  }
+}
